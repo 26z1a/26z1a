@@ -107,7 +107,7 @@ url:
 
 最后, 可以关注下我的直播间 :
 
--   ~~[熊猫tv]~~(https://panda.tv/1847357) RIP panda.tv
+-   [~~熊猫tv~~](https://panda.tv/1847357) RIP panda.tv
 -   [斗鱼tv](https://www.douyu.com/5866422)
 -   [twitch](https://twitch.tv/26z1a)   
 
